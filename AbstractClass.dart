@@ -1,5 +1,5 @@
-// 1. Abstract Method
-// 2. Abstract Class
+// 1. Abstract Methods
+// 2. Abstract Classs
 
 void main() {
 //	var shape = Shape();        // Error. Cannot instantiate Abstract Class
