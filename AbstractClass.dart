@@ -1,5 +1,5 @@
-// 1. Abstract Methods
-// 2. Abstract Classs
+// 1. Abstract Methods in Dart
+// 2. Abstract Classs in Dart
 
 void main() {
 //	var shape = Shape();        // Error. Cannot instantiate Abstract Class
