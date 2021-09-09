@@ -2,7 +2,7 @@
 // 2. Abstract Classs
 
 void main() {
-//	var shape = Shape();        // Error. Cannot instantiate Abstract Class
+//	var shape = Shape();        // Error. Cannot instantiate Abstract Class.
 
   var rectangle = Rectangle();
   rectangle.draw();
