@@ -19,7 +19,7 @@ void main() {
   student2.sleep();
 }
 
-// Define States (Properties) and behavior of a Student
+// Define States (Properties) and behavior of a Student.
 class Student {
   int id = -1; // Instance or Field Variable, default value is -1.
   String name = "ashu"; // Instance or Field Variable, default value is ashu.
