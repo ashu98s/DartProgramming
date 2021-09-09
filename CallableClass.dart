@@ -1,6 +1,6 @@
 // 1. Callable class
 // --> Class treated as Function.
-// --> Implement call() method
+// --> Implement call() method.
 
 void main() {
   var personOne = Person();
