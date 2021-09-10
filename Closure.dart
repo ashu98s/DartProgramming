@@ -1,4 +1,4 @@
-// 1. Closures
+// 1. Closures.
 
 void main() {
   // Definition 1:
