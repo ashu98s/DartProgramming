@@ -1,5 +1,5 @@
 void main() {
-  // Conditional Expressions
+  // Conditional Expressions.
 
   // 1. Condition ? exp1 : exp2
   // If condition is true, evaluates expr1 (and returns its value);
