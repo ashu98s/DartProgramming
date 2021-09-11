@@ -1,6 +1,6 @@
 void main() {
   // Do While Loop
-  // WAP to find the even numbers between 1 to 10
+  // WAP to find the even numbers between 1 to 10.
 
   int i = 1;
   do {
