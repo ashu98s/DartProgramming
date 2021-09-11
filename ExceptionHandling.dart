@@ -2,7 +2,7 @@
 // 2. Catch Clause with Exception Object
 // 3. Catch Clause with Exception and StackTrace Object
 // 4. Finally Clause
-// 5. Create our own Custom Exception
+// 5. Create our own Custom Exception.
 
 void main() {
   print("CASE 1");
