@@ -1,4 +1,4 @@
-// 1. Fixed-length list
+// 1. Fixed-length list.
 
 /*void main() {
   // Elements:    N   N   N   N   N
