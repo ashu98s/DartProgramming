@@ -1,7 +1,7 @@
 // 1. Required Parametes
 // 2. Optional Positional Parameters
 // 3. Optional Named Parameters
-// 4. Default Optional Parameter
+// 4. Default Optional Parameter.
 
 void main() {
   printCities("Dhenkanal", "Bhubaneswar", "Cuttack");
