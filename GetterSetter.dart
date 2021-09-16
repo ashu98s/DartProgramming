@@ -1,6 +1,6 @@
 // 1. Default Getter and Setter
 // 2. Custom Getter and Setter
-// 3. Private Instance Variable
+// 3. Private Instance Variable.
 
 void main() {
   var student = Student();
