@@ -1,4 +1,4 @@
-// 1. Higher-Order Function:
+// 1. Higher-Order Function
 // How to pass function as parameter?
 // How to return a function from another function?
 
