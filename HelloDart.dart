@@ -1,5 +1,5 @@
 // This is my first Dart Program.
-// Main is the entry point of the program.
+// Main is the entry point of the program
 void main() {
   print("Hello Dart!");
 
