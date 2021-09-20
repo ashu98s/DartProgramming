@@ -7,7 +7,7 @@ void main() {
     print("You need to work hard!");
   }
 
-  // If Else Ladder Statemets
+  // If Else Ladder Statemets.
   var marks = 60;
 
   if (marks >= 90 && marks < 100) {
