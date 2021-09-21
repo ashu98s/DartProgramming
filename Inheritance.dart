@@ -1,4 +1,4 @@
-// 1. Exploring Inheritance
+// 1. Exploring Inheritance.
 
 void main() {
   var dog = Dog();
