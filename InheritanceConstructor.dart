@@ -1,5 +1,5 @@
 // 1. Inheritance with Default Constructor and Parameterised Constructor
-// 2. Inheritance with Named Constructor
+// 2. Inheritance with Named Constructor.
 
 /*void main() {
   var dog1 = Dog("Labrador", "Black");
