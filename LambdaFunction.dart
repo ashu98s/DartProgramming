@@ -1,5 +1,5 @@
 // 1. Lambda Functions
-// NOTE: A function in Dart is object
+// NOTE: A function in Dart is object.
 
 void main() {
   // Defining Lambda: 1st way
