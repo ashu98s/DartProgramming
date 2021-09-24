@@ -1,4 +1,4 @@
-// 1. Interface
+// 1. Interface.
 
 void main() {
   var tv = Television();
