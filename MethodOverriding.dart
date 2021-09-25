@@ -1,4 +1,4 @@
-// Method Overriding
+// Method Overriding.
 void main() {
   var dog = Dog();
   dog.eat();
