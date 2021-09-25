@@ -1,6 +1,6 @@
 // 1. Sets:
 //  --> Unordered Collection
-// 	--> All elements are unique
+// 	--> All elements are unique.
 
 void main() {
   Set<String> countries =
