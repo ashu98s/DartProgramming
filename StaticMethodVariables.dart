@@ -1,4 +1,4 @@
-// 1. Static Methods and Variables
+// 1. Static Methods and Variables.
 // Static consumes memory only ones.
 
 void main() {
