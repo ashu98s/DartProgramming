@@ -1,6 +1,6 @@
 // 1. Maps
 // --> KEY has to be unique
-// --> VALUE can be duplicate
+// --> VALUE can be duplicate.
 
 void main() {
   Map<String, int> countryDialingCode = {
