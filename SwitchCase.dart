@@ -1,5 +1,5 @@
 void main() {
-  // Switch Case Statements : Applicable for only 'int' and 'String'
+  // Switch Case Statements : Applicable for only 'int' and 'String'.
 
   String grade = 'A';
   switch (grade) {
