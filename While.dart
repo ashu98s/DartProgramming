@@ -1,6 +1,6 @@
 void main() {
   // While Loop
-  // Wap to find the even numbers between 1 to 10
+  // Wap to find the even numbers between 1 to 10.
 
   var i = 1;
   while (i <= 10) {
