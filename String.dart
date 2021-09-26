@@ -5,7 +5,7 @@ void main() {
   "Ashirbad";
   4.5;
 
-  // Various ways to define Literals in Dart
+  // Various ways to define Literals in Dart.
   String s1 = 'Single';
   String s2 = "Double";
   String s3 = 'It\'s easy';
