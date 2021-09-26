@@ -1,7 +1,7 @@
 void main() {
   // Numbers: Int
   int score = 23;
-  var count = 23; // It is inferred as integer automatically by compiler.
+  var count = 23; // It is inferred as integer automatically by compiler
   int hexValue = 0xEADEBAEE;
 
   // Numbners: Double
